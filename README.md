@@ -41,7 +41,7 @@ As we speed towards LDI I hope you’re finding yourself excited about taking so
 Time| Topic
 ---|---
 9:30 | Introductions - Context and Overview
-10:00 | Projection Mapping Caase Studies
+10:00 | Projection Mapping Case Studies
 10:15 | UI Building and Show Prep
 11:45 | Simulated 2D Projection Mapping
 12:00 | Projection Mapping with KantanMapper
@@ -50,4 +50,4 @@ Time| Topic
 3:00 | Finishing our UI
 3:30 | Projection Mapping with CamSchnappr
 5:00 | Q&A
-5:30 | Wrap Day 1  
+5:30 | Wrap
