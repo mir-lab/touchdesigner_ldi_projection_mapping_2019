@@ -47,7 +47,7 @@ Time| Topic
 12:00 | Projection Mapping with KantanMapper
 1:00 | Lunch
 2:00 | Building Geometry and Texturing
-3:00 | FInishing our UI
+3:00 | Finishing our UI
 3:30 | Projection Mapping with CamSchnappr
 5:00 | Q&A
 5:30 | Wrap Day 1  
